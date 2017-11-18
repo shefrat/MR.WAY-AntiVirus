@@ -3,3 +3,4 @@ AntiVirus By Securinets
 
 By:
 - Hichem Razgallah
+- Hassen Mezghani
